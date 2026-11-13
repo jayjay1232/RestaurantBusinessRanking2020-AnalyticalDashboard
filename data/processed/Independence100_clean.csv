@@ -1,0 +1,101 @@
+Rank,Restaurant,Sales,Average Check,City,State,Meals Served,Sales_M,Avg_Check,Meals_Served
+1,Carmine's (Times Square),39080335.0,40,New York,N.Y.,469803.0,39.080335,40,469803.0
+2,The Boathouse Orlando,35218364.0,43,Orlando,Fla.,820819.0,35.218364,43,820819.0
+3,Old Ebbitt Grill,29104017.0,33,Washington,D.C.,892830.0,29.104017,33,892830.0
+4,LAVO Italian Restaurant & Nightclub,26916180.0,90,New York,N.Y.,198500.0,26.91618,90,198500.0
+5,Bryant Park Grill & Cafe,26900000.0,62,New York,N.Y.,403000.0,26.9,62,403000.0
+6,Gibsons Bar & Steakhouse,25409952.0,80,Chicago,Ill.,348567.0,25.409952,80,348567.0
+7,Top of the World at the STRAT ,25233543.0,103,Las Vegas,Nev.,246054.0,25.233543,103,246054.0
+8,Maple & Ash,24837595.0,99,Chicago,Ill.,210832.0,24.837595,99,210832.0
+9,Balthazar,24547800.0,87,New York,N.Y.,519000.0,24.5478,87,519000.0
+10,Smith & Wollensky,24501000.0,107,New York,N.Y.,257364.0,24.501,107,257364.0
+11,Angus Barn,24268160.0,75,Raleigh,N.C.,315000.0,24.26816,75,315000.0
+12,Prime 112,23800000.0,135,Miami Beach,Fla.,206000.0,23.8,135,206000.0
+13,"Joe's Seafood, Prime Steak & Stone Crab",23660000.0,86,Washington,D.C.,277850.0,23.66,86,277850.0
+14,Junior's (Times Square),23640652.0,23,New York,N.Y.,914500.0,23.640652,23,914500.0
+15,The Hamilton,23138062.0,33,Washington,D.C.,700861.0,23.138062,33,700861.0
+16,"Joe's Seafood, Prime Steak & Stone Crab",22981600.0,91,Chicago,Ill.,252500.0,22.9816,91,252500.0
+17,"Joe's Seafood, Prime Steak & Stone Crab",22859400.0,81,Las Vegas,Nev.,286000.0,22.8594,81,286000.0
+18,Gibsons Italia,22749232.0,108,Chicago,Ill.,252962.0,22.749232,108,252962.0
+19,Komodo,22500000.0,98,Miami,Fla.,265000.0,22.5,98,265000.0
+20,Buddakan,22395577.0,67,New York,N.Y.,221059.0,22.395577,67,221059.0
+21,Bazaar Meat by Jose Andres,22181607.0,119,Las Vegas,Nev.,190000.0,22.181607,119,190000.0
+22,SW Steakhouse,21523650.0,149,Las Vegas,Nev.,145700.0,21.52365,149,145700.0
+23,St. Elmo Steak House,21422141.0,99,Indianapolis,Ind.,192774.0,21.422141,99,192774.0
+24,RPM Steak,20853300.0,102,Chicago,Ill.,202900.0,20.8533,102,202900.0
+25,Mon Ami Gabi,20120210.0,76,Las Vegas,Nev.,319200.0,20.12021,76,319200.0
+26,Gibsons Bar & Steakhouse,19831818.0,81,Oak Brook,Ill.,276444.0,19.831818,81,276444.0
+27,Paddlefish,19829500.0,48,Orlando,Fla.,417500.0,19.8295,48,417500.0
+28,Taste of Texas,19530159.0,55,Houston,Texas,375241.0,19.530159,55,375241.0
+29,Parc,19379153.0,35,Philadelphia,Pa.,486219.0,19.379153,35,486219.0
+30,Bob Chinn's Crab House,18687601.0,48,Wheeling,Ill.,625907.0,18.687601,48,625907.0
+31,Quality Meats,18678000.0,115,New York,N.Y.,165148.0,18.678,115,165148.0
+32,Del Posto,18625033.0,194,New York,N.Y.,95000.0,18.625033,194,95000.0
+33,Shooters Waterfront,18601433.0,57,Ft. Lauderdale,Fla.,409752.0,18.601433,57,409752.0
+34,Bottega Louie,18521000.0,36,Los Angeles,Calif.,322562.0,18.521,36,322562.0
+35,Le Diplomate,18490719.0,38,Washington,D.C.,363609.0,18.490719,38,363609.0
+36,Gibsons Bar & Steakhouse,18483056.0,79,Rosemont,Ill.,252419.0,18.483056,79,252419.0
+37,Lavo Italian Restaurant & Lounge,18386262.0,97,Las Vegas,Nev.,115500.0,18.386262,97,115500.0
+38,Prime Steakhouse,18248030.0,173,Las Vegas,Nev.,113600.0,18.24803,173,113600.0
+39,Makoto,18216906.0,54,Bal Harbour,Fla.,256830.0,18.216906,54,256830.0
+40,Original Joe's Westlake,18159612.0,35,Daly City,Calif.,473492.0,18.159612,35,473492.0
+41,Shaw's Crab House,17965500.0,72,Chicago,Ill.,270000.0,17.9655,72,270000.0
+42,"Founding Farmers (Washington, D.C.)",17910045.0,33,Washington,D.C.,648096.0,17.910045,33,648096.0
+43,Junior's (49th Street),17834390.0,22,New York,N.Y.,798000.0,17.83439,22,798000.0
+44,Chops Lobster Bar,17816450.0,106,Atlanta,Ga.,168000.0,17.81645,106,168000.0
+45,Chicago Cut Steakhouse,17743720.0,95,Chicago,Ill.,211000.0,17.74372,95,211000.0
+46,Swift & Sons,17637400.0,119,Chicago,Ill.,195343.0,17.6374,119,195343.0
+47,Harris Ranch Inn & Restaurant,17599468.0,29,Coalinga,Calif.,611928.0,17.599468,29,611928.0
+48,Sparks Steak House,17519030.0,100,New York,N.Y.,198200.0,17.51903,100,198200.0
+49,Quality Italian,17519000.0,95,New York,N.Y.,177337.0,17.519,95,177337.0
+50,Frankenmuth Bavarian Inn,17388751.0,19,Frankenmuth,Mich.,899284.0,17.388751,19,899284.0
+51,Tavern on the Green,17212800.0,76,New York,N.Y.,250000.0,17.2128,76,250000.0
+52,Abe & Louie's,17063477.0,106,Boston,Mass.,160762.0,17.063477,106,160762.0
+53,Rusty Pelican,16981741.0,98,Miami,Fla.,182000.0,16.981741,98,182000.0
+54,Beauty & Essex (New York City),16364050.0,90,New York,N.Y.,187970.0,16.36405,90,187970.0
+55,Grand Central Oyster Bar,16304883.0,62,New York,N.Y.,296000.0,16.304883,62,296000.0
+56,Delmonico Steakhouse,16154000.0,103,Las Vegas,Nev.,133000.0,16.154,103,133000.0
+57,Portland City Grill,16111510.0,83,Portland,Ore.,268062.0,16.11151,83,268062.0
+58,Zehnder's of Frankenmuth,16063684.0,17,Frankenmuth,Mich.,959026.0,16.063684,17,959026.0
+59,The Rustic Inn,15700000.0,43,Ft. Lauderdale,Fla.,371000.0,15.7,43,371000.0
+60,Harry Caray's Italian Steakhouse,15680000.0,59,Chicago,Ill.,287900.0,15.68,59,287900.0
+61,Keens Steakhouse,15629700.0,97,New York,N.Y.,168301.0,15.6297,97,168301.0
+62,The Lobster House,15450000.0,43,Cape May,N.J.,320000.0,15.45,43,320000.0
+63,China Live,15106280.0,54,San Francisco,Calif.,300000.0,15.10628,54,300000.0
+64,Prime & Provisions,15100000.0,130,Chicago,Ill.,116154.0,15.1,130,116154.0
+65,Carmine's (Las Vegas),15067804.0,45,Las Vegas,Nev.,176221.0,15.067804,45,176221.0
+66,Swan,15000000.0,78,Miami,Fla.,225000.0,15.0,78,225000.0
+67,15th Street Fisheries,14978103.0,69,Fort Lauderdale,Fla.,356000.0,14.978103,69,356000.0
+68,Atlanta Fish Market,14972300.0,57,Atlanta,Ga.,274000.0,14.9723,57,274000.0
+69,Acme Feed & Seed,14897125.0,22,Nashville,Tenn.,527130.0,14.897125,22,527130.0
+70,Hugo's Frog Bar & Fish House,14790123.0,80,Chicago,Ill.,190616.0,14.790123,80,190616.0
+71,Cliff House,14465847.0,40,San Francisco,Calif.,199901.0,14.465847,40,199901.0
+72,Castaway Burbank,14407413.0,60,Burbank,Calif.,180320.0,14.407413,60,180320.0
+73,Matt's El Rancho,14381904.0,29,Austin,Texas,495927.0,14.381904,29,495927.0
+74,Timberline Steaks and Grille,14362103.0,37,Denver,Colo.,553378.0,14.362103,37,553378.0
+75,Beauty & Essex (Las Vegas),14130500.0,99,Las Vegas,Nev.,150000.0,14.1305,99,150000.0
+76,Carmine's (Atlantic City),13987843.0,39,Atlantic City,N.J.,129630.0,13.987843,39,129630.0
+77,Junior's (Brooklyn),13908292.0,23,New York,N.Y.,359000.0,13.908292,23,359000.0
+78,Quartino Ristorante & Wine Bar,13854856.0,32,Chicago,Ill.,394582.0,13.854856,32,394582.0
+79,Paradise Cove Beach Cafe,13654113.0,39,Malibu,Calif.,312050.0,13.654113,39,312050.0
+80,BOA Steakhouse ,13552485.0,110,West Hollywood,Calif.,123204.0,13.552485,110,123204.0
+81,Original Joe's,13177468.0,45,San Francisco,Calif.,267533.0,13.177468,45,267533.0
+82,"Founding Farmers (McLean, Va.)",13102742.0,38,McLean,Va.,390104.0,13.102742,38,390104.0
+83,Siena Tavern,13100000.0,55,Chicago,Ill.,238182.0,13.1,55,238182.0
+84,Girl & the Goat,12894700.0,82,Chicago,Ill.,183000.0,12.8947,82,183000.0
+85,Tavern on Rush,12884000.0,72,Chicago,Ill.,178944.0,12.884,72,178944.0
+86,Harry & Izzy's Circle Centre,12809921.0,66,Indianapolis,Ind.,174166.0,12.809921,66,174166.0
+87,Scoma's,12713394.0,65,San Francisco,Calif.,292000.0,12.713394,65,292000.0
+88,Farmers Fishers Bakers,12572109.0,37,Washington,D.C.,371025.0,12.572109,37,371025.0
+89,Southern Steak & Oyster,12566618.0,39,Nashville,Tenn.,337920.0,12.566618,39,337920.0
+90,Big Texan Steak Ranch,12505200.0,24,Amarillo,Texas,478000.0,12.5052,24,478000.0
+91,"Park Avenue Summer (Autumn, Winter, Spring)",12498000.0,84,New York,N.Y.,164531.0,12.498,84,164531.0
+92,Farmers & Distillers,12278839.0,36,Washington,D.C.,375309.0,12.278839,36,375309.0
+93,Virgil's Real Barbecue,12245998.0,31,New York,N.Y.,251800.0,12.245998,31,251800.0
+94,"Carmine's (Washington, D.C.)",12228168.0,39,Washington,D.C.,148135.0,12.228168,39,148135.0
+95,Franciscan Crab Restaurant,12218147.0,59,San Francisco,Calif.,240000.0,12.218147,59,240000.0
+96,George's at the Cove,12194000.0,80,La Jolla,Calif.,250000.0,12.194,80,250000.0
+97,Le Coucou,12187523.0,95,New York,N.Y.,87070.0,12.187523,95,87070.0
+98,Mi Vida,12032014.0,38,Washington,D.C.,226226.0,12.032014,38,226226.0
+99,Upland,11965564.0,52,New York,N.Y.,171825.0,11.965564,52,171825.0
+100,Virgil's Real Barbecue,11391678.0,27,Las Vegas,Nev.,208276.0,11.391678,27,208276.0

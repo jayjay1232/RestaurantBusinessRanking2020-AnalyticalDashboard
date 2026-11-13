@@ -1,0 +1,171 @@
+{
+  "top250_binary_high_growth": {
+    "logistic_regression": {
+      "accuracy": 0.6349206349206349,
+      "f1": 0.30303030303030304,
+      "roc_auc": 0.6520979020979021,
+      "coefficients": [
+        {
+          "feature": "Segment_Standard_Casual Dining & Italian/Pizza",
+          "coefficient": -0.9589102972400508
+        },
+        {
+          "feature": "Sales_per_Unit",
+          "coefficient": 0.8670416428619583
+        },
+        {
+          "feature": "log_Units",
+          "coefficient": -0.7300515429136337
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Family Casual",
+          "coefficient": -0.5715662750232993
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Sandwich",
+          "coefficient": -0.49881436186458217
+        },
+        {
+          "feature": "Segment_Standard_Fast Casual & Burger",
+          "coefficient": 0.4709012094676634
+        },
+        {
+          "feature": "Segment_Standard_Casual Dining & Seafood",
+          "coefficient": -0.45951629412209166
+        },
+        {
+          "feature": "Segment_Standard_Casual Dining & Varied Menu",
+          "coefficient": -0.4232978687928459
+        },
+        {
+          "feature": "Segment_Standard_Fast Casual & Chicken",
+          "coefficient": 0.422600054799508
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Snack",
+          "coefficient": -0.4003714771891865
+        },
+        {
+          "feature": "Segment_Standard_Fine Dining & Steak",
+          "coefficient": -0.39620822577051734
+        },
+        {
+          "feature": "Segment_Standard_Fast Casual & Sandwich",
+          "coefficient": 0.39330287473970316
+        },
+        {
+          "feature": "Segment_Standard_Fast Casual & Ethnic",
+          "coefficient": 0.363803305029259
+        },
+        {
+          "feature": "Segment_Standard_Fast Casual & Healthy",
+          "coefficient": 0.36151492744181196
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Frozen Desserts",
+          "coefficient": -0.35030421002798706
+        }
+      ]
+    },
+    "random_forest": {
+      "accuracy": 0.6507936507936508,
+      "f1": 0.21428571428571427,
+      "roc_auc": 0.48251748251748255,
+      "feature_importances": [
+        {
+          "feature": "Sales_per_Unit",
+          "importance": 0.2706022954451936
+        },
+        {
+          "feature": "log_Units",
+          "importance": 0.26087878911149603
+        },
+        {
+          "feature": "log_Sales",
+          "importance": 0.19460392108423552
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Burger",
+          "importance": 0.06478252835478573
+        },
+        {
+          "feature": "Segment_Standard_Casual Dining & Italian/Pizza",
+          "importance": 0.048643215873151305
+        },
+        {
+          "feature": "Segment_Standard_Casual Dining & Steak",
+          "importance": 0.045792770868852015
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Pizza",
+          "importance": 0.04481232970917885
+        },
+        {
+          "feature": "Segment_Standard_Casual Dining & Varied Menu",
+          "importance": 0.02077557907301267
+        },
+        {
+          "feature": "Segment_Standard_Family Dining & Family Style",
+          "importance": 0.019529634681107348
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Mexican",
+          "importance": 0.00918204456273337
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Coffee Cafe",
+          "importance": 0.004934626872997749
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Bakery Cafe",
+          "importance": 0.004604476389367193
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Chicken",
+          "importance": 0.004042763271967323
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Frozen Desserts",
+          "importance": 0.0031245710209858884
+        },
+        {
+          "feature": "Segment_Standard_Quick Service & Sandwich",
+          "importance": 0.0023519053909263126
+        }
+      ],
+      "cv_f1_mean": 0.30879795396419435,
+      "cv_f1_std": 0.059360520147891255
+    }
+  },
+  "future50_exploratory": {
+    "in_sample_accuracy": 0.74,
+    "in_sample_f1": 0.6976744186046512,
+    "coefficients": [
+      {
+        "feature": "Sales_M",
+        "coefficient": -0.894718856481503
+      },
+      {
+        "feature": "Units",
+        "coefficient": 1.037883301278731
+      },
+      {
+        "feature": "Unit_Volume_Avg",
+        "coefficient": -0.34558030646456217
+      },
+      {
+        "feature": "Is_Franchised",
+        "coefficient": -0.14307978399814228
+      }
+    ],
+    "note": "Exploratory only \u2013 n=50, no held-out test set"
+  },
+  "target_definition_top250": "High_Growth = YOY_Sales_pct >= 10",
+  "target_definition_future50": "High_Growth = YOY_Sales_pct >= 30",
+  "features_top250": [
+    "log_Sales",
+    "log_Units",
+    "Sales_per_Unit",
+    "Segment_Standard (one-hot)"
+  ]
+}
